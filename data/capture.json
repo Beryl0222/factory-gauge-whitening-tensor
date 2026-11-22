@@ -17,7 +17,7 @@
         ],
         "coverage": 1.7,
         "max_norm": 5,
-        "max_adjust_fro": 0.12
+        "max_adjust_fro": 3.0
       },
       {
         "id": "tool",
