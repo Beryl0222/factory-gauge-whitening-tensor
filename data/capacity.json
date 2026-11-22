@@ -1,0 +1,8 @@
+{
+  "observations": 120000,
+  "channels": 80,
+  "group_width": 12,
+  "max_rows_in_memory": 1024,
+  "peak_scratch_bytes": 2097152,
+  "seed": 121
+}
